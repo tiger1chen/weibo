@@ -1,0 +1,12 @@
+[ 2015-05-29T16:17:27+08:00 ] 127.0.0.1 /go/index.php/login.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+ERR: 无法加载模块:Login
+
+[ 2015-05-29T16:17:41+08:00 ] 127.0.0.1 /go/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+ERR: 无法加载模块:Login
+

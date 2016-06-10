@@ -1,0 +1,6 @@
+[ 2015-06-01T10:08:01+08:00 ] 127.0.0.1 /go/admin.php/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+ERR: 无法加载模块:Index
+

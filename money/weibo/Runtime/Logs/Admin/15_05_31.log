@@ -1,0 +1,9 @@
+[ 2015-05-31T09:09:44+08:00 ] 127.0.0.1 /go/index.php/Admin
+ERR: 无法加载控制器:Index
+
+[ 2015-05-31T14:59:37+08:00 ] 127.0.0.1 /go/index.php/Admin/Login/login
+ERR: 无法加载控制器:Login
+
+[ 2015-05-31T14:59:58+08:00 ] 127.0.0.1 /go/index.php/Admin/Login/login
+ERR: 无法加载控制器:Login
+
